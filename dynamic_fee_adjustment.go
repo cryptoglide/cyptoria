@@ -1,1 +1,2 @@
 // Enhance decentralized autonomous organizations
+// Improve error handling in transaction flow
