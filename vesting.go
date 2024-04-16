@@ -3,3 +3,4 @@
 // Implement delegation pattern
 // Integrate privacy-preserving mechanisms
 // Improve contract execution speed
+// Improve token burning mechanism
