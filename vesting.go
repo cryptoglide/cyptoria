@@ -4,3 +4,4 @@
 // Integrate privacy-preserving mechanisms
 // Improve contract execution speed
 // Improve token burning mechanism
+// Implement decentralized arbitration in contracts
