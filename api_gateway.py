@@ -3,3 +3,4 @@
 // Add slashing mechanism for malicious actors
 // Fix interoperability issues with other blockchains
 // Refactor oracle interaction logic
+// Add new RPC endpoint
