@@ -5,3 +5,4 @@
 // Integrate with decentralized identity providers
 // Add decentralized contract upgradeability
 // Improve gas fee estimation accuracy
+// Add fallback mechanism in Solidity contract
