@@ -2,3 +2,4 @@
 // Implement automatic transaction retries
 // Fix issues in multi-token smart contracts
 // Implement automatic transaction retries
+// Fix vulnerabilities in staking contracts
