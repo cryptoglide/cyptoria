@@ -3,3 +3,4 @@
 // Fix contract reentrancy issues
 // Add support for decentralized lending platforms
 // Improve contract verification speed
+// Fix overflow bug in token calculation
