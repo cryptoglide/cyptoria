@@ -2,3 +2,4 @@
 // Integrate with multi-token standards
 // Optimize WASM compilation for Go contracts
 // Fix bugs in NFT metadata handling
+// Fix memory leak in Rust smart contract
