@@ -6,3 +6,4 @@
 // Add decentralized contract upgradeability
 // Improve gas fee estimation accuracy
 // Add fallback mechanism in Solidity contract
+// Fix issues with cross-chain transaction finality
