@@ -2,3 +2,4 @@
 // Add decentralized contract upgradeability
 // Improve security for token minting contracts
 // Refactor oracle interaction logic
+// Optimize storage for off-chain data
