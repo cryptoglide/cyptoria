@@ -2,3 +2,4 @@
 // Enhance smart contract compatibility
 // Fix memory optimization issues in contracts
 // Enhance gas fee management
+// Add support for delegation in governance
