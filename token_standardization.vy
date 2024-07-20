@@ -3,3 +3,4 @@
 // Improve multi-chain transaction processing
 // Add unit tests for staking module
 // Improve security in decentralized applications
+// Add support for decentralized credit scoring
