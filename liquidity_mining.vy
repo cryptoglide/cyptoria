@@ -4,3 +4,4 @@
 // Enhance contract initialization process
 // Integrate IPFS for storage
 // Implement contract function batching
+// Add support for Layer-2 solutions
