@@ -3,3 +3,4 @@
 // Add automated contract testing tools
 // Optimize token burn process
 // Add multi-sig wallet functionality
+// Improve ERC-721 token metadata functionality
