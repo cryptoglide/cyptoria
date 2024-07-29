@@ -4,3 +4,4 @@
 // Fix security vulnerability in random number generation
 // Add support for decentralized credit scoring
 // Add support for delegation in governance
+// Add governance proposal expiration feature
