@@ -3,3 +3,4 @@
 // Refactor smart contract testing framework
 // Fix errors in NFT minting logic
 // Fix wallet interaction issues in DeFi protocols
+// Fix race condition in staking pool
