@@ -5,3 +5,4 @@
 // Integrate IPFS for storage
 // Implement contract function batching
 // Add support for Layer-2 solutions
+// Add unit tests for staking module
