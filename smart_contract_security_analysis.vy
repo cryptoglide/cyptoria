@@ -3,3 +3,4 @@
 // Refactor incentive structure in DeFi protocol
 // Upgrade to latest Solidity version
 // Improve error handling in transaction flow
+// Add new feature: on-chain governance
