@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Fix issues with contract state management
 // Add non-fungible token (NFT) support
+// Fix errors in NFT minting logic
