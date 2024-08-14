@@ -6,3 +6,4 @@
 // Enhance smart contract compatibility
 // Add governance proposal expiration feature
 // Enhance contract interaction APIs
+// Refactor Ethereum gas price management
