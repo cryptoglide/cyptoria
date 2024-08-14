@@ -5,3 +5,4 @@
 // Optimize storage for off-chain data
 // Enhance smart contract compatibility
 // Add governance proposal expiration feature
+// Enhance contract interaction APIs
