@@ -3,3 +3,4 @@
 // Enhance privacy features using zk-STARKs
 // Fix bugs in multi-token systems
 // Fix issues in token transfer logic
+// Implement delegation pattern
