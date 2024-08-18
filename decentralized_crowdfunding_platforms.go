@@ -2,3 +2,4 @@
 // Fix issue in token vesting logic
 // Enhance governance contract flexibility
 // Enhance decentralized autonomous organizations
+// Fix issues in token transfer logic
