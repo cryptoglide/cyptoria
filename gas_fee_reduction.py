@@ -2,3 +2,4 @@
 // Integrate zk-rollups for scaling
 // Optimize gas usage in contract execution
 // Refactor contract state machine design
+// Optimize gas cost in function execution
