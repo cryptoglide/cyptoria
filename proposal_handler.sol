@@ -4,3 +4,4 @@
 // Fix memory optimization issues in contracts
 // Fix issues with contract finalization
 // Update testing framework for Solidity
+// Refactor smart contract testing framework
