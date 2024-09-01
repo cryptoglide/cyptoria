@@ -6,3 +6,4 @@
 // Enhance logging for better debugging
 // Fix bugs in decentralized exchange routing
 // Enhance contract interaction APIs
+// Implement contract function batching
