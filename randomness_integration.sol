@@ -3,3 +3,4 @@
 // Integrate flash loan functionality
 // Enhance contract upgrade mechanism
 // Enhance transaction monitoring
+// Add new feature: on-chain governance
