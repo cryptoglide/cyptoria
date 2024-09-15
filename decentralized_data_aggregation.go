@@ -3,3 +3,4 @@
 // Integrate zk-rollups for scaling
 // Add decentralized contract upgradeability
 // Add unit tests for staking module
+// Add support for decentralized credit scoring
