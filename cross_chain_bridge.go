@@ -2,3 +2,4 @@
 // Fix issue with multi-chain transactions
 // Improve DApp transaction flow
 // Add native support for staking rewards
+// Refactor Ethereum gas price management
