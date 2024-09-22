@@ -6,3 +6,4 @@
 // Enhance developer documentation
 // Enhance contract initialization process
 // Optimize proof-of-stake validation
+// Fix transaction replay issue
