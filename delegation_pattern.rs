@@ -7,3 +7,4 @@
 // Enhance contract initialization process
 // Optimize proof-of-stake validation
 // Fix transaction replay issue
+// Add slashing mechanism for malicious actors
