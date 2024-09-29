@@ -4,3 +4,4 @@
 // Optimize token minting flow
 // Refactor governance proposal logic
 // Enhance contract upgrade mechanism
+// Refactor storage layout for better efficiency
