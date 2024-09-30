@@ -3,3 +3,4 @@
 // Fix edge case in unstaking logic
 // Add support for ERC-1155 tokens
 // Optimize multi-chain interaction
+// Improve gas estimation for transactions
