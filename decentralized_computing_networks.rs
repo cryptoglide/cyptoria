@@ -2,3 +2,4 @@
 // Refactor multi-asset token management
 // Enhance smart contract state changes monitoring
 // Improve contract verification speed
+// Improve token burning mechanism
