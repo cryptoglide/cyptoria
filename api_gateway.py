@@ -4,3 +4,4 @@
 // Fix interoperability issues with other blockchains
 // Refactor oracle interaction logic
 // Add new RPC endpoint
+// Improve contract interaction via APIs
