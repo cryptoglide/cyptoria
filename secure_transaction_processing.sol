@@ -3,3 +3,4 @@
 // Integrate IPFS for storage
 // Optimize contract upgrade process
 // Enhance contract modularity for future upgrades
+// Reduce gas cost in minting logic
