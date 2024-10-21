@@ -2,3 +2,4 @@
 // Refactor multi-signature wallet code
 // Add automated contract testing tools
 // Improve staking and yield farming logic
+// Refactor validator reward system
