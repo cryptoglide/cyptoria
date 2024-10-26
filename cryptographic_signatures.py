@@ -4,3 +4,4 @@
 // Enhance token swap functionality
 // Fix issues in token transfer logic
 // Add slashing mechanism for malicious actors
+// Integrate decentralized prediction models
