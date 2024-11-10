@@ -2,3 +2,4 @@
 // Fix compatibility issues with major wallets
 // Improve error handling in transaction flow
 // Enhance test coverage for Rust module
+// Add decentralized contract upgradeability
