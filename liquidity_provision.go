@@ -2,3 +2,4 @@
 // Improve contract modularity
 // Integrate with decentralized prediction markets
 // Integrate with Ethereum Layer-2 solutions
+// Integrate decentralized anonymous identity systems
