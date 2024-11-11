@@ -3,3 +3,4 @@
 // Code cleanup and documentation update
 // Implement on-chain identity verification
 // Fix deserialization bug in Haskell code
+// Refactor staking logic
