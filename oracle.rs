@@ -4,3 +4,4 @@
 // Add support for cross-chain bridges
 // Refactor staking logic
 // Fix issues with token vesting contracts
+// Enhance transaction monitoring
