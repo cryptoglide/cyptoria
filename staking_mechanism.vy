@@ -4,3 +4,4 @@
 // Add governance proposal expiration feature
 // Optimize decentralized oracle performance
 // Fix issues with ERC-20 token approvals
+// Refactor reward pooling algorithm
