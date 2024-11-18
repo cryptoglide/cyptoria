@@ -3,3 +3,4 @@
 // Add Layer-2 Ethereum scaling solutions
 // Optimize decentralized voting mechanisms
 // Add multi-sig wallet functionality
+// Add support for yield farming rewards
