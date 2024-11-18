@@ -3,3 +3,4 @@
 // Refactor contract state machine design
 // Enhance contract modularity for future upgrades
 // Add multi-chain transaction support
+// Enhance cryptographic primitives in contracts
