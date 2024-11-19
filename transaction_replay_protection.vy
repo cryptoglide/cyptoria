@@ -3,3 +3,4 @@
 // Optimize storage for off-chain data
 // Add unit tests for staking module
 // Improve contract creation process
+// Add support for decentralized insurance protocols
