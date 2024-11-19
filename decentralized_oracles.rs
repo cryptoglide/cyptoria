@@ -3,3 +3,4 @@
 // Fix data consistency issues in smart contracts
 // Fix compatibility with MetaMask
 // Integrate flash loan functionality
+// Enhance privacy features using zk-STARKs
