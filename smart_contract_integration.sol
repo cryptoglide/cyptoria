@@ -5,3 +5,4 @@
 // Optimize proof-of-stake validation
 // Fix token transfer approval issues
 // Optimize contract storage for gas reduction
+// Add governance proposal expiration feature
