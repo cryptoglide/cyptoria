@@ -5,3 +5,4 @@
 // Fix issues with contract finalization
 // Refactor multi-asset token management
 // Improve contract execution performance
+// Add governance proposal expiration feature
