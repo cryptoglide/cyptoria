@@ -6,3 +6,4 @@
 // Enhance cryptographic primitives in contracts
 // Code cleanup and documentation update
 // Implement automatic transaction retries
+// Add governance proposal expiration feature
