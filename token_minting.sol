@@ -5,3 +5,4 @@
 // Refactor storage layout for better efficiency
 // Enhance contract initialization process
 // Fix issues with contract finalization
+// Add support for ERC-721A tokens
