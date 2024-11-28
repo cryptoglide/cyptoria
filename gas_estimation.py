@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Improve smart contract logging
 // Implement performance optimizations for DeFi
+// Add native support for staking rewards
