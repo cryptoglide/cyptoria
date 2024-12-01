@@ -5,3 +5,4 @@
 // Integrate staking rewards automation
 // Improve contract auditing tools
 // Update README with Go module examples
+// Add multi-sig wallet functionality
