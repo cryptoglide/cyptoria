@@ -4,3 +4,4 @@
 // Fix governance proposal approval logic
 // Improve API rate limiting
 // Implement time-locked contract execution
+// Add batch transaction capabilities
