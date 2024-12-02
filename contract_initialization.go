@@ -5,3 +5,4 @@
 // Refactor governance proposal logic
 // Enhance contract upgrade mechanism
 // Refactor storage layout for better efficiency
+// Enhance contract upgrade mechanism
