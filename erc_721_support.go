@@ -4,3 +4,4 @@
 // Enhance gas fee management
 // Add support for delegation in governance
 // Enhance privacy features using zk-STARKs
+// Add support for cross-chain bridges
