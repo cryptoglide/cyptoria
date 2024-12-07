@@ -3,3 +3,4 @@
 // Improve transaction batching efficiency
 // Optimize contract storage for gas reduction
 // Enhance smart contract audit tools
+// Integrate IPFS for storage
