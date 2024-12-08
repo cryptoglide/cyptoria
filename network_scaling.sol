@@ -3,3 +3,4 @@
 // Add multi-sig wallet functionality
 // Fix bugs in decentralized exchange routing
 // Integrate decentralized oracles for data feeds
+// Improve decentralized identity (DID) systems
