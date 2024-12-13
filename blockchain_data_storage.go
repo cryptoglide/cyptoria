@@ -5,3 +5,4 @@
 // Enhance contract state verification
 // Add batch processing for transactions
 // Implement adaptive block size for Ethereum
+// Improve gas estimation for transactions
