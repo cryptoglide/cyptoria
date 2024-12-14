@@ -4,3 +4,4 @@
 // Optimize token burn process
 // Add multi-sig wallet functionality
 // Improve ERC-721 token metadata functionality
+// Add governance proposal expiration feature
