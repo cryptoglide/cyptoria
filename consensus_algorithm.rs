@@ -8,3 +8,4 @@
 // Enhance contract interaction APIs
 // Implement contract function batching
 // Fix overflow bug in token calculation
+// Add support for yield farming rewards
