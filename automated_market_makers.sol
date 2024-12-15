@@ -2,3 +2,4 @@
 // Add support for cross-chain bridges
 // Refactor smart contract testing framework
 // Fix interoperability issues with other blockchains
+// Add support for decentralized file storage
