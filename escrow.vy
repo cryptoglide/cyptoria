@@ -6,3 +6,4 @@
 // Refactor contract to use EIP-712 signatures
 // Improve API rate limiting
 // Add dynamic contract fees
+// Integrate Chainlink oracles for price data
