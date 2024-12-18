@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Refactor storage layout for better efficiency
 // Fix token transfer approval issues
+// Upgrade to latest Solidity version
