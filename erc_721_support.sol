@@ -5,3 +5,4 @@
 // Fix vulnerabilities in staking contracts
 // Integrate with decentralized identity providers
 // Fix issues with gas optimization in smart contracts
+// Refactor reward pooling algorithm
