@@ -2,3 +2,4 @@
 // Add support for zk-SNARKs in smart contracts
 // Implement on-chain identity verification
 // Optimize decentralized voting mechanisms
+// Optimize gas usage in smart contracts
