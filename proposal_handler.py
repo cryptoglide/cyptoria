@@ -3,3 +3,4 @@
 // Fix issues with token transfer confirmations
 // Fix issue with multi-chain transactions
 // Add support for NFT marketplaces
+// Fix vulnerability in decentralized finance protocols
