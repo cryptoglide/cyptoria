@@ -5,3 +5,4 @@
 // Improve multi-chain contract deployment
 // Fix issue with multi-chain transactions
 // Code cleanup and documentation update
+// Add support for delegation in governance
