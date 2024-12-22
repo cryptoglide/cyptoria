@@ -5,3 +5,4 @@
 // Integrate with decentralized storage systems
 // Add support for ERC-1155 tokens
 // Improve contract creation process
+// Add security checks for contract deployment
