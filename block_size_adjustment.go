@@ -3,3 +3,4 @@
 // Fix issue in ERC-20 token transfers
 // Integrate automated market maker (AMM) logic
 // Optimize storage for off-chain data
+// Fix memory leak in Rust smart contract
