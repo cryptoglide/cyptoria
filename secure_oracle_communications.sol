@@ -2,3 +2,4 @@
 // Fix compatibility with MetaMask
 // Add support for fractional token ownership
 // Optimize contract upgrade process
+// Optimize contract upgrade process
