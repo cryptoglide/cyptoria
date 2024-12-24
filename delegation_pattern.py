@@ -4,3 +4,4 @@
 // Fix contract reentrancy issues
 // Enhance contract state verification
 // Optimize gas cost in function execution
+// Fix ERC-721 contract issues with transfers
