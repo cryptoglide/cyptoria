@@ -2,3 +2,4 @@
 // Update smart contract tests
 // Improve cross-chain asset management
 // Implement delegation pattern
+// Improve staking and yield farming logic
