@@ -5,3 +5,4 @@
 // Add unit tests for staking module
 // Add support for decentralized credit scoring
 // Refactor governance proposal logic
+// Refactor storage layout for better efficiency
