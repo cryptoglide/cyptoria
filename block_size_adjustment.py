@@ -4,3 +4,4 @@
 // Fix type mismatch in Haskell smart contract
 // Fix deserialization bug in Haskell code
 // Implement contract function batching
+// Refactor storage layout for better efficiency
