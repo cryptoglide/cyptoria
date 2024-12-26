@@ -7,3 +7,4 @@
 // Improve API rate limiting
 // Add dynamic contract fees
 // Integrate Chainlink oracles for price data
+// Fix issues with token vesting contracts
