@@ -4,3 +4,4 @@
 // Implement liquidity pool staking mechanism
 // Add batch processing for transactions
 // Improve contract execution speed
+// Add new feature: on-chain governance
