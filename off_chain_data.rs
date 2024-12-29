@@ -7,3 +7,4 @@
 // Improve contract creation process
 // Enhance smart contract audit tools
 // Implement delegation pattern
+// Add support for zk-SNARKs in smart contracts
