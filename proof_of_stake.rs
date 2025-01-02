@@ -6,3 +6,4 @@
 // Implement automatic transaction retries
 // Implement adaptive block size for Ethereum
 // Implement automatic transaction retries
+// Improve error handling in transaction flow
