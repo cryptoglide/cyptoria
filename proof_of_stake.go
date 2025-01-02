@@ -3,3 +3,4 @@
 // Enhance smart contract upgradeability
 // Optimize gas cost in function execution
 // Fix security vulnerability in random number generation
+// Fix issues with cross-chain transaction finality
