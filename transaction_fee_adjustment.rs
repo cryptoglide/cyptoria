@@ -2,3 +2,4 @@
 // Improve ERC-721 token metadata functionality
 // Improve gas fee estimation accuracy
 // Improve contract state management
+// Add non-fungible token (NFT) support
