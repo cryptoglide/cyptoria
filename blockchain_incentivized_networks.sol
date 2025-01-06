@@ -4,3 +4,4 @@
 // Fix bug in random number generation
 // Add multi-chain governance support
 // Refactor Ethereum gas price management
+// Add support for ERC-721A tokens
